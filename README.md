@@ -43,6 +43,8 @@
 5. If `needs` is less than zero (the user spent more on needs than they had in the budget), display how over budget they are and subtract it from the `wants` variable. If `needs` is over zero, you should display “You are doing great!”.
  
 6. Print out the remaining needs, savings, and wants.
+![Needs Update](/project/images/image3.png "Needs Update")
+
 
 7. Work on the “Emergency Fund” button. Create a function called `emergencyFund`. 
 
